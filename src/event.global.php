@@ -1,4 +1,5 @@
 <?php
+global $e;
 
 $e->on('view.eventJs', function() {
     global $e;
