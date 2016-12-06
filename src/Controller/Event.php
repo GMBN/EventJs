@@ -1,6 +1,6 @@
 <?php
 
-namespace EventJs\Controller;
+namespace LevEventJs\Controller;
 
 class Event {
 

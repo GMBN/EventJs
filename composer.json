@@ -1,5 +1,5 @@
 {
-    "name" : "gmbn/eventjs",
+    "name" : "gmbn/leveventjs",
     "description" : "Module of Framework Levitron for manipulate events on front-end ",
     "license": "MIT",
     "require" : {
@@ -15,7 +15,7 @@
     "keywords" : [ "event php ", "event front end","php", "module levitron", "levitron" ],
     "autoload" : {
         "psr-4" : {
-             "EventJs\\": "src/"
+            "LevEventJs\\" : "src/"
         }
     }
 }
